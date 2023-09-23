@@ -1,6 +1,8 @@
 # ラベリング工数大幅削減！アプリで楽するデータラベリングと前処理 - AI モデル検討の前に
 Copyright 2023 The MathWorks, Inc.
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Apps-make-labeling-and-feature-extraction-easy)
+
 2023年3月に実施した[セミナー](https://jp.mathworks.com/videos/easy-data-labeling-and-preprocessing-for-ai-application-1679916561144.html)で使用した
 データ・スクリプトです。
 
